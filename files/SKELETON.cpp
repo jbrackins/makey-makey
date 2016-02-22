@@ -41,7 +41,7 @@
  @verbatim
  Date              Modification
  ----------------  --------------------------------------------------------------
- <CURRENT_DATE>     * Project Initialization.
+ <CURRENT_DATE> * Project Initialization.
 
  @endverbatim
  *
