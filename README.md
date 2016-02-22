@@ -9,6 +9,7 @@ In order to run this script, follow these steps:
 * create the <project-name> directory in your workspace.
 * clone this repository into your workspace as well
 * cd wakey-wakey
+* modify renamer.conf to match your own necessary information.
 * ./wakey.sh <project-name>
 
 # FUNCTIONALITY
